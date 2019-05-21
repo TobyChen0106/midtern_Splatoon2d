@@ -1,0 +1,27 @@
+{
+  "name": "midtern_project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "create-react-class": "^15.6.3",
+    "express": "^4.17.0",
+    "lodash": "^4.17.11",
+    "path": "^0.12.7",
+    "prop-types": "^15.7.2",
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
+    "react-hexagon-grid": "^1.1.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "0.9.5",
+    "redux": "^4.0.1",
+    "three": "^0.86.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
