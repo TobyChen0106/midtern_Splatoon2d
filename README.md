@@ -1,7 +1,7 @@
 [midterm_Splatton]
 GitHub repo:
 https://github.com/TobyChen0106/midtern_Splatoon2d.git
-
+![](https://i.imgur.com/wmkqWF5.png)
 ## 題目名稱
 簡易單人2D版漆彈大作戰
 
